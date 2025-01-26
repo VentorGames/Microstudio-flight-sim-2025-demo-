@@ -9,4 +9,4 @@ that are the emergency buttons 1 is engine fire 2 is part falling off and 3 is w
 
 please enyoy this free 2d sim made by venter games and the company of jensgamestudios
 
-if that doesnt work (the html file) go to microstudio.io/JensGameStudios and click on the game here you can also play more games
+if that doesnt work (the html file) go to microstudio.io/JensGameStudios and click on the game here you can also play more games also if you want the sound version go to the website (r decode the sound)
